@@ -16,9 +16,5 @@
 
 ![](/assets/gitbook2.jpg)回到github![](/assets/github_settings.jpg)
 
-![](/assets/github_settings.jpg)
-
-
-
-
+![](/assets/gitbook3.jpg)
 
