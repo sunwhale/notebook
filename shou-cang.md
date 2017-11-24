@@ -12,5 +12,7 @@
 
 # [mac使用sshpass连接ssh全教程](http://www.jianshu.com/p/2ce1bc682ac6)
 
+# [mac下使用sshpass实现ssh记住密码](http://blog.csdn.net/joeblackzqq/article/details/46598189)
+
 
 
