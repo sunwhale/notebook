@@ -14,5 +14,8 @@
 
 # [mac下使用sshpass实现ssh记住密码](http://blog.csdn.net/joeblackzqq/article/details/46598189)
 
+# [Linux 格式化和挂载数据盘](https://help.aliyun.com/document_detail/25426.html)
+
+
 
 
