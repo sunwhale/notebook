@@ -16,6 +16,4 @@
 
 # [Linux 格式化和挂载数据盘](https://help.aliyun.com/document_detail/25426.html)
 
-
-
-
+# [L2TP/IPSec一键安装脚本](https://teddysun.com/448.html)
