@@ -16,4 +16,6 @@
 
 # [Linux 格式化和挂载数据盘](https://help.aliyun.com/document_detail/25426.html)
 
-# [L2TP/IPSec一键安装脚本](https://teddysun.com/448.html)
+# [L2TP/IPSec一键安装脚本](https://github.com/sunwhale/setup-ipsec-vpn)
+
+# [CentOS 6、7下pptp vpn一键安装脚本](https://blog.linuxeye.cn/412.html)
